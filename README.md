@@ -1,4 +1,4 @@
-# 🧠 LangChain Projects & Experiments
+#  LangChain Projects & Experiments
 
 Welcome to my **LangChain** repository! This space is dedicated to exploring, building, and sharing projects developed using [LangChain](https://www.langchain.com/), an open-source framework designed to simplify building applications powered by large language models (LLMs).
 
@@ -12,7 +12,7 @@ A personalized AI-powered chatbot built using **LangChain**, **OpenAI API**, and
 ✅ Uses prompt templates, tools, and conversational chains  
 ✅ Ideal for learning and demonstrating LLM-based assistant workflows
 
-> ➕ More features and improvements will be added soon!
+>  More features and improvements will be added soon!
 
 ---
 
@@ -46,12 +46,6 @@ LangChain allows developers to create context-aware, reasoning-powered applicati
 
 Feel free to fork, open issues, or suggest features!  
 If you're exploring LangChain too — let’s connect and collaborate. 🚀
-
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
