@@ -8,9 +8,9 @@ Welcome to my **LangChain** repository! This space is dedicated to exploring, bu
 
 ### 🔹 `chatbot_openaAi`
 A personalized AI-powered chatbot built using **LangChain**, **OpenAI API**, and **streaming memory**.  
-✅ Capable of responding to real-time user queries  
-✅ Uses prompt templates, tools, and conversational chains  
-✅ Ideal for learning and demonstrating LLM-based assistant workflows
+- Capable of responding to real-time user queries  
+- Uses prompt templates, tools, and conversational chains  
+- Ideal for learning and demonstrating LLM-based assistant workflows
 
 >  More features and improvements will be added soon!
 
